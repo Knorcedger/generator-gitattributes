@@ -1,7 +1,7 @@
 {
   "name": "generator-gitattributes",
   "description": "A Yeoman generator that creates a .gitattributes file to replace line endings to LF",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Knorcedger",
   "bugs": {
     "url": "https://github.com/Knorcedger/generator-gitattributes/issues"
