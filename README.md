@@ -6,6 +6,14 @@ A Yeoman generator that creates a .gitattributes file to replace line endings to
 
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
+Using npx in your project folder
+
+```sh
+npx -p yo -p generator-gitattributes -- yo gitattributes
+```
+
+or install it locally
+
 ```sh
 npm install -g generator-gitattributes --save
 ```
